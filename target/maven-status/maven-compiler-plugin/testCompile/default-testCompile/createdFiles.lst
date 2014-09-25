@@ -1,0 +1,7 @@
+com/framework/pages/HomePage.class
+com/framework/tests/TestHomePage.class
+com/framework/config/ReadProperties.class
+com/framework/pages/AbstractPage.class
+com/framework/pages/MorePage.class
+com/framework/tests/BaseTest.class
+com/framework/pages/CalculatorPage.class
